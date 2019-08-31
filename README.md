@@ -1,6 +1,8 @@
 # Snake
 
-Implementation of the gamous game Snake with Python module Pygame
+A simple implementation of the famous game Snake with Python module Pygame.
+
+You can play the game with Python by running the file Snake.py. Otherwise, you can use the executable on the Snake folder : Snake.exe.
 
 
 ## Game demonstration
